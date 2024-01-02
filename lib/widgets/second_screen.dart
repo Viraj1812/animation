@@ -43,6 +43,7 @@ class _SecondScreenState extends State<SecondScreen>
             const Icon(
               Icons.call,
               color: Colors.white,
+              size: 64,
             ),
           ],
           /* 
